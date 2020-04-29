@@ -1,0 +1,56 @@
+{
+  "id": "db21adbc-8a50-46a1-8b47-2ac31395f4b4",
+  "name": "Origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "241d08c6-0380-4090-8126-976736529861",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e4abd29f-f9ce-4d0d-a8d1-e9df9990af96",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code1",
+          "value": "$geo-country-code1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Covid-19\u0027s origin can be traced back to Wuhan in China. However, scientists are still studying how the virus infected humans in the beginning."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

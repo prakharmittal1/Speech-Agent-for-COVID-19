@@ -1,0 +1,47 @@
+{
+  "id": "75747459-43e7-4e69-9b16-67e488c95875",
+  "name": "Covid_Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00764a09-99ed-446f-a0e8-9eb30253af06",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "You must STAY home as much as you can, and wash your hands often. use soap and water, or an alcohol-based hand rub.",
+            "Wash your hands frequently, avoid touching your eyes mouth and nose. Also, try to avoid crowded places as much as you can."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

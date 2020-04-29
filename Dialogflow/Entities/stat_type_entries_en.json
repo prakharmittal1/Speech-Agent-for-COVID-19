@@ -1,0 +1,67 @@
+[
+  {
+    "value": "deaths",
+    "synonyms": [
+      "deaths",
+      "died",
+      "casualty",
+      "deceased",
+      "passed away",
+      "expired",
+      "fatality",
+      "fatal",
+      "bereaved",
+      "perish",
+      "new deaths",
+      "more deaths"
+    ]
+  },
+  {
+    "value": "confirmed",
+    "synonyms": [
+      "confirmed",
+      "identified",
+      "certified",
+      "ongoing",
+      "prevelant",
+      "total",
+      "currently",
+      "infected",
+      "sick",
+      "new cases",
+      "more cases"
+    ]
+  },
+  {
+    "value": "recovered",
+    "synonyms": [
+      "recovered",
+      "improved",
+      "symptom free",
+      "cured",
+      "made a comback",
+      "get better",
+      "recuperate",
+      "overcome",
+      "healed",
+      "rebound",
+      "revive",
+      "better",
+      "new recovered"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "stats",
+      "statistics",
+      "metrics",
+      "metric",
+      "status",
+      "state",
+      "condition",
+      "situation"
+    ]
+  }
+]

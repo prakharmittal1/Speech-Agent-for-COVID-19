@@ -1,0 +1,94 @@
+{
+  "id": "9e64e22f-17b7-40bb-9d97-0e1febf7835e",
+  "name": "Location Stats Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stat_type",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f080bd18-795f-44b5-b1f4-9595a499d94f",
+          "required": false,
+          "dataType": "@stat_type",
+          "name": "type",
+          "value": "$type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "confirmed",
+          "isList": true
+        },
+        {
+          "id": "b07e99ee-1a6c-4515-925f-61020effb4b8",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "country",
+          "value": "$country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "4a0458ff-c212-4b91-93be-d6d4b492b974",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "province",
+          "value": "$province",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "bbc6f95a-9342-47b9-8466-3ff6934776e6",
+          "required": false,
+          "dataType": "@stat_county",
+          "name": "county",
+          "value": "$county",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "f62d7acb-3ed6-421d-b64b-38671a9fb1fe",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "dateTime",
+          "value": "$dateTime",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

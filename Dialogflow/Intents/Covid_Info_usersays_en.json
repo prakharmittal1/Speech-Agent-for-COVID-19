@@ -1,0 +1,122 @@
+[
+  {
+    "id": "65387ee0-213d-4b4d-8fdb-97a469c1ff86",
+    "data": [
+      {
+        "text": "That\u0027s too bad, How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I prevent it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eccc39af-11c1-4f7f-b803-d54091f6438d",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " the steps ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " prevent Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "668bdc98-f237-4fb2-8065-008c7c8ed979",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I prevent Covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "544a6e77-76d5-4237-a541-1d1ea2357304",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I prevent Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65f5635c-641a-4019-8572-be2042105393",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " I prevent Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "3f2804b6-fb4c-4cd8-808d-4c139a5f3cd2",
+    "data": [
+      {
+        "text": "and",
+        "alias": "geo-country-code",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " where did ",
+        "userDefined": false
+      },
+      {
+        "text": "it",
+        "alias": "geo-country-code1",
+        "meta": "@sys.geo-country-code",
+        "userDefined": false
+      },
+      {
+        "text": " come from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "729ed48f-f26a-48fb-b4fd-a283fd8e7f04",
+    "data": [
+      {
+        "text": "How did coronavirus start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3167b642-2dae-457a-a3ea-27096c3cb568",
+    "data": [
+      {
+        "text": "Where Did the COVID-19 Virus Come From?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78f760fd-1ec1-4408-8d3c-cdc0bf91173b",
+    "data": [
+      {
+        "text": "from where does coronavirus Originate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38b4db59-11a1-4e03-b5e9-ed031df81b62",
+    "data": [
+      {
+        "text": "Where did this virus come from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

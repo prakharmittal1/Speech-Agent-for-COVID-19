@@ -1,0 +1,26 @@
+[
+  {
+    "value": "([[:alpha:]]+) [c|C]ounty",
+    "synonyms": [
+      "([[:alpha:]]+) [c|C]ounty"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) province",
+    "synonyms": [
+      "([[:alpha:]]+) province"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) district",
+    "synonyms": [
+      "([[:alpha:]]+) district"
+    ]
+  },
+  {
+    "value": "([[:alpha:]]+) [p|P]arish",
+    "synonyms": [
+      "([[:alpha:]]+) [p|P]arish"
+    ]
+  }
+]

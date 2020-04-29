@@ -1,0 +1,59 @@
+{
+  "id": "ffdeba9e-a421-43a2-be52-d6c51d240d39",
+  "name": "Worldwide Stats Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f4b06c98-2a6e-42f4-b380-ebbd51506ab2",
+          "required": true,
+          "dataType": "@stat_type",
+          "name": "type",
+          "value": "$type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to know current cases?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you want to know current deaths?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you want to know confirmed cases?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "all",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

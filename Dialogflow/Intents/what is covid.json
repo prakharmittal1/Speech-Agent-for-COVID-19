@@ -1,0 +1,44 @@
+{
+  "id": "37dbc8d8-3dbc-4182-9340-7bb0e10e1b34",
+  "name": "what is covid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "558660eb-2afc-42b5-bcac-9a81c23a0c85",
+          "required": false,
+          "dataType": "@sys.geo-country-code",
+          "name": "geo-country-code",
+          "value": "$geo-country-code",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "COVID-19 is an infectious disease caused by a newly discovered coronavirus. Most people who become infected experience mild illness and recover, but it can be more severe for others. There are many ongoing clinical trials evaluating potential vaccines and treatments."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
